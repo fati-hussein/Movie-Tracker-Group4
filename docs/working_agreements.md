@@ -17,3 +17,10 @@
 - Design discussions, issue updates, and review notes are kept in the Wiki and linked to GitHub Issues.
 - A 5-minute weekly sync ensures alignment on progress and blockers.
 - All members are encouraged to comment and review at least one Pull Request per week.
+
+Facilitator: Fatoumata  
+Scribe: Fatoumata  
+Contributors: Fatoumata
+
+
+
